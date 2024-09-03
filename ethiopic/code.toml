@@ -412,7 +412,7 @@ auto_capitalize = false
 "yo" = { value = "ዮ", alias = ["yO", "Yo", "YO"] }
 "yoa" = { value = "ዯ", alias = ["yoA", "yOa", "yOA", "Yoa", "YoA", "YOa", "YOA"] }
 "yu" = { value = "ዩ", alias = ["yU", "Yu", "YU"] }
-"z" = "ዝ"
+"z" = "ዚ"
 "za" = { value = "ዛ", alias = ["zA"] }
 "ze" = { value = "ዘ", alias = ["zE"] }
 "zi" = { value = "ዚ", alias = ["zI"] }
@@ -421,3 +421,4 @@ auto_capitalize = false
 "zoa" = { value = "ⶋ", alias = ["zoA", "zOa", "zOA"] }
 "zu" = { value = "ዙ", alias = ["zU"] }
 "zua" = { value = "ዟ", alias = ["zuA", "zUa", "zUA"] }
+"zy" = { value = "ዝ", alias = [”Zy”] }
